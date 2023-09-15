@@ -39,19 +39,18 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, HTML, CSS,
+              ReactJS, HTML, CSS, Javascript
             </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, ExpressJS,
-              MySQL
+              NodeJS, ExpressJS, SQL
             </span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript, C++</span>
+            <span>C++, Java</span>
           </li>
         </ol>
       </div>
